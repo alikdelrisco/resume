@@ -1,0 +1,195 @@
+{
+  "basics": {
+    "name": "Alik del Risco",
+    "label": "Senior Software Developer with +8 years of experience as a professional.",
+    "image": "/me.webp",
+    "email": "alik.delrisco92@gmail.com",
+    "phone": "+1 5197163159",
+    "url": "https://alikdelrisco.github.io/cv/",
+    "summary": "Senior Software Engineer with DevOps skills. Contestant in the Caribbean Final of the ACM-ICPC in 2015 and also in many national competitive programming contests during the pre-grade. Passionate for new technologies and sharing knowledge with others, Software Architecture and programming languages. Quick learner who works both independently and in a team, always better in the team. Appreciates the level of organization and planning of the development process, the use of good practices, and the quality of the code.",
+    "location": {
+      "address": "",
+      "postalCode": "N2G 0C8",
+      "city": "Kitchener",
+      "countryCode": "CA",
+      "region": "Canada"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Rideco",
+      "position": "Team Leader and Fullstack Developer",
+      "url": "https://www.rideco.com/",
+      "startDate": "2022-04-01",
+      "endDate": null,
+      "summary": "RideCo is the most adopted on-demand cloud-based paratransit and microtransit software among the 10 largest cities in the United States.",
+      "highlights": [
+        "Typescript",
+        "Python",
+        "REST",
+        "Postgres",
+        "Vue",
+        "Django"
+      ]
+    },
+    {
+      "name": "Musala Soft - MagentaZuhause Smart Home",
+      "position": "Senior Fullstack Developer",
+      "url": "https://www.smarthome.de/magentazuhause-app",
+      "startDate": "2021-10-01",
+      "endDate": "2022-04-01",
+      "summary": "Qivicon is an innovative solution for smart homes currently being developed by Deutsche Telekom. I worked as a Backend and Mobile developer the Integration teams, providing the communication with severals vendors of devices.",
+      "highlights": [
+        "Typescript",
+        "React",
+        "React Native",
+        "Nodejs",
+        "MongoDB",
+        "Jest",
+        "GraphQl",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Musala Soft - Elopage Media Categorizer",
+      "position": "Senior Backend and Cloud Developer",
+      "url": "https://elopage.com/en/",
+      "startDate": "2021-10-01",
+      "endDate": "2021-04-01",
+      "summary": "Elopage Media Categorizer is a microservice in charge to detect content that is inappropriate, unwanted, or offensive. I worked as a main Backend developer implementing REST endpoints, consuming AWS services, and communicating with the existing microservices.",
+      "highlights": [
+        "Typescript",
+        "Nodejs",
+        "Nestjs",
+        "Aws RDS",
+        "S3",
+        "Rekognition",
+        "SQS",
+        "Docker",
+        "REST"
+      ]
+    },
+    {
+      "name": "Musala Soft - Leanplum React Native SDK",
+      "position": "Mobile Developer",
+      "url": "https://docs.leanplum.com/reference/react-native-setup",
+      "startDate": "2019-10-01",
+      "endDate": "2020-04-01",
+      "summary": "I worked as a Mobile developer integrating the existing Android and iOS SDK into a React Native npm package sdks.",
+      "highlights": [
+        "Typescript",
+        "React",
+        "Java",
+        "React Native",
+        "Objective-C",
+        "Swift",
+        "Jest"
+      ]
+    },
+    {
+      "name": "DATYS",
+      "position": "Fullstack Developer and DevOps",
+      "url": "https://cu.linkedin.com/company/datyscuba",
+      "startDate": "2016-9-01",
+      "endDate": "2018-04-01",
+      "summary": "DATYS is a leading provider of tailored software solutions for Cuban governmental agencies.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "",
+      "url": "https://www.uci.cu/",
+      "area": "Computer Science Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-01",
+      "endDate": "2016-07-01",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "skills": [
+    {
+      "name": "Javascript"
+    },
+    {
+      "name": "Typescript"
+    },
+    {
+      "name": "Nodejs"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Microservices"
+    },
+    {
+      "name": "Automated Testing"
+    },
+    {
+      "name": "Clean Code"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "SCRUM"
+    },
+    {
+      "name": "Docker"
+    },
+
+    {
+      "name": "Graphql"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Vue"
+    },
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "Nestjs"
+    },
+    {
+      "name": "Django"
+    },
+    {
+      "name": "Cypress"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": ["Elige tu propia aventura", "En desarrollo"],
+      "url": "https://mars.codes"
+    }
+  ]
+}
