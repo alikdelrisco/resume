@@ -6,7 +6,7 @@
     "email": "alik.delrisco92@gmail.com",
     "phone": "+1 5197163159",
     "url": "https://alikdelrisco.github.io/cv/",
-    "summary": "Senior Software Engineer with DevOps skills. Contestant in the Caribbean Final of the ACM-ICPC in 2015 and also in many national competitive programming contests during the pre-grade. Passionate for new technologies and sharing knowledge with others, Software Architecture and programming languages. Quick learner who works both independently and in a team, always better in the team. Appreciates the level of organization and planning of the development process, the use of good practices, and the quality of the code.",
+    "summary": "Senior Software Engineer. Contestant in the Caribbean Final of the ACM-ICPC in 2015 and also in many national competitive programming contests during the pre-grade. Passionate for new technologies and sharing knowledge with others, Software Architecture and programming languages. Quick learner who works both independently and in a team, always better in the team. Appreciates the level of organization and planning of the development process, the use of good practices, and the quality of the code.",
     "location": {
       "address": "",
       "postalCode": "N2G 0C8",
@@ -19,11 +19,11 @@
   "work": [
     {
       "name": "Rideco",
-      "position": "Team Leader and Fullstack Developer",
+      "position": "Team Leader and Senior Fullstack Developer",
       "url": "https://www.rideco.com/",
       "startDate": "2022-04-01",
       "endDate": null,
-      "summary": "RideCo is the most adopted on-demand cloud-based paratransit and microtransit software among the 10 largest cities in the United States.",
+      "summary": "Led a team of 5 members for a complete rewrite of a Operations Center web app, this app is a crucial component for the RideCo plaftorm for monitoring, controlling and reporting all the data related with the rides.",
       "highlights": [
         "Typescript",
         "Python",
@@ -85,6 +85,65 @@
         "Objective-C",
         "Swift",
         "Jest"
+      ]
+    },
+    {
+      "name": "Agile Business Platform",
+      "position": "Senior Fullstack Developer",
+      "url": "",
+      "startDate": "2020-10-01",
+      "endDate": "2020-04-01",
+      "summary": "A platform that allow end users build agile applications.",
+      "highlights": [
+        "Nodejs",
+        "Serverless Framework",
+        "AWS Lambda",
+        "Typescript",
+        "Graphql",
+        "Reactjs",
+        "AWS DynamoDB",
+        "AWS RDS",
+        "AWS Elasticache",
+        "AWS Elasticsearch",
+        "AWS Translate",
+        "AWS Cognito",
+        "AWS CloudFormation",
+        "AWS S3",
+        "AWS Ses",
+        "Google Cloud Provider",
+        "Terraform",
+        "Firebase",
+        "Firestore",
+        "Google Realtime Database",
+        "Google Cloud Functions",
+        "Google Workflow"
+      ]
+    },
+    {
+      "name": "EntregasCuba",
+      "position": "Team Leader, Devops, and Backend Developer",
+      "url": "",
+      "startDate": "2020-10-01",
+      "endDate": "2020-04-01",
+      "summary": "A platform for cash delivery in Cuba.",
+      "highlights": [
+        "Nodejs",
+        "Nestjs",
+        "RabbitMQ",
+        "Redis",
+        "Aws S3",
+        "Aws SES",
+        "MongoDB",
+        "Mongo Atlas",
+        "Traefik",
+        "Graphql",
+        "Apollo Federation",
+        "Microservices",
+        "AWS EC2",
+        "Nginx",
+        "Angular",
+        "Docker",
+        "Typescript"
       ]
     },
     {
