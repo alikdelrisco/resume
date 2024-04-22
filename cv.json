@@ -6,7 +6,7 @@
     "email": "alik.delrisco92@gmail.com",
     "phone": "+1 5197163159",
     "url": "https://alikdelrisco.github.io/cv/",
-    "summary": "Senior Software Engineer. Contestant in the Caribbean Final of the ACM-ICPC in 2015 and also in many national competitive programming contests during the pre-grade. Passionate for new technologies and sharing knowledge with others, Software Architecture and programming languages. Quick learner who works both independently and in a team, always better in the team. Appreciates the level of organization and planning of the development process, the use of good practices, and the quality of the code.",
+    "summary": "Experienced Senior Software Engineer with a proven track record, including participation in the Caribbean Final of the ACM-ICPC in 2015 and numerous national competitive programming contests. Passionate about emerging technologies, software architecture, and knowledge sharing. Adept at both independent work and collaborative team environments, emphasizing meticulous planning and adherence to best practices for high-quality code. Committed to delivering innovative solutions while fostering a culture of continuous improvement.",
     "location": {
       "address": "",
       "postalCode": "N2G 0C8",
@@ -23,7 +23,7 @@
       "url": "https://www.rideco.com/",
       "startDate": "2022-04-01",
       "endDate": null,
-      "summary": "Led a team of 5 members for a complete rewrite of a Operations Center web app, this app is a crucial component for the RideCo plaftorm for monitoring, controlling and reporting all the data related with the rides.",
+      "summary": "Assembled and led a team of 5 members in the comprehensive rewrite of an Operations Center web application, a crucial component of the RideCo platform. The application is highly customizable and has plenty of feature flags to cover all the customers' needs. The user interface was built using Vue and consumes REST endpoints provided by Django Rest Framework.",
       "highlights": [
         "Typescript",
         "Python",
@@ -35,11 +35,11 @@
     },
     {
       "name": "Musala Soft - MagentaZuhause Smart Home",
-      "position": "Senior Fullstack Developer",
+      "position": "Senior Mobile Developer",
       "url": "https://www.smarthome.de/magentazuhause-app",
       "startDate": "2021-10-01",
       "endDate": "2022-04-01",
-      "summary": "Qivicon is an innovative solution for smart homes currently being developed by Deutsche Telekom. I worked as a Backend and Mobile developer the Integration teams, providing the communication with severals vendors of devices.",
+      "summary": "Developed the Smarthome solution mobile app for Deutsche Telekom. Collaborating with +100 members divided into multiple teams. Connecting various devices' vendors and microservices data through Graphql endpoints and providing rich user interfaces using React Native.",
       "highlights": [
         "Typescript",
         "React",
@@ -57,7 +57,7 @@
       "url": "https://elopage.com/en/",
       "startDate": "2021-10-01",
       "endDate": "2021-04-01",
-      "summary": "Elopage Media Categorizer is a microservice in charge to detect content that is inappropriate, unwanted, or offensive. I worked as a main Backend developer implementing REST endpoints, consuming AWS services, and communicating with the existing microservices.",
+      "summary": "Elopage Media Categorizer is a microservice that detects inappropriate, unwanted, or offensive content. Worked as the main backend developer, implementing REST endpoints, consuming AWS services, and communicating with the existing microservices.",
       "highlights": [
         "Typescript",
         "Nodejs",
@@ -76,7 +76,7 @@
       "url": "https://docs.leanplum.com/reference/react-native-setup",
       "startDate": "2019-10-01",
       "endDate": "2020-04-01",
-      "summary": "I worked as a Mobile developer integrating the existing Android and iOS SDK into a React Native npm package sdks.",
+      "summary": "Worked as a Mobile developer wrapping and modifying the existing Android and iOS SDKs into a React Native npm package.",
       "highlights": [
         "Typescript",
         "React",
@@ -88,12 +88,12 @@
       ]
     },
     {
-      "name": "Agile Business Platform",
+      "name": "Freelancer - Agile Business Platform",
       "position": "Senior Fullstack Developer",
       "url": "",
       "startDate": "2020-10-01",
       "endDate": "2020-04-01",
-      "summary": "A platform that allow end users build agile applications.",
+      "summary": "Founded a non-code tool for building agile software hosted in the biggest cloud providers. Developed and designed the serverless backend microservices. Managed the infrastructure as code using Terraform and multiple services from GCP and AWS.",
       "highlights": [
         "Nodejs",
         "Serverless Framework",
@@ -120,12 +120,12 @@
       ]
     },
     {
-      "name": "EntregasCuba",
-      "position": "Team Leader, Devops, and Backend Developer",
+      "name": "Freelancer - EntregasCuba",
+      "position": "Team Leader, Devops, and Backend Developer.",
       "url": "",
       "startDate": "2020-10-01",
       "endDate": "2020-04-01",
-      "summary": "A platform for cash delivery in Cuba.",
+      "summary": "Led the development of a specific platform for cash delivery in Cuba with a team of 5 members. Designed and executed a microservices architecture supported by RabbitMQ, Apollo Graphql Federation, Sagas, CQRS, and Event-Driven Architecture.",
       "highlights": [
         "Nodejs",
         "Nestjs",
