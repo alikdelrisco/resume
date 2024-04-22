@@ -18,7 +18,7 @@
   },
   "work": [
     {
-      "name": "Rideco",
+      "name": "Rideco - Operations Center",
       "position": "Team Leader and Senior Fullstack Developer",
       "url": "https://www.rideco.com/",
       "startDate": "2022-04-01",
@@ -30,7 +30,8 @@
         "REST",
         "Postgres",
         "Vue",
-        "Django"
+        "Django",
+        "Kafka"
       ]
     },
     {
@@ -46,6 +47,7 @@
         "React Native",
         "Nodejs",
         "MongoDB",
+        "Kafka",
         "Jest",
         "GraphQl",
         "Docker"
@@ -152,8 +154,17 @@
       "url": "https://cu.linkedin.com/company/datyscuba",
       "startDate": "2016-9-01",
       "endDate": "2018-04-01",
-      "summary": "Worked as a Fullstack Developer with Javascript, AngularJs, Groovy, Java and Grails. Contributed to a Document Management System with a powerful modeling tool based on Camunda.",
-      "highlights": []
+      "summary": "Worked as a Fullstack Developer with Groovy, Java, Grails and Javascript, AngularJs. Contributed to a Document Management System with a powerful process modeling tool based on Camunda.",
+      "highlights": [
+        "Groovy",
+        "Java",
+        "Grails",
+        "Javascript",
+        "AngularJs",
+        "REST",
+        "Oracle",
+        "Docker"
+      ]
     }
   ],
   "volunteer": [],
@@ -200,6 +211,9 @@
     },
     {
       "name": "CI/CD"
+    },
+    {
+      "name": "Cloud Providers"
     },
     {
       "name": "SCRUM"
