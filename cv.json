@@ -147,25 +147,25 @@
       ]
     },
     {
-      "name": "DATYS",
+      "name": "DATYS - Papyrus",
       "position": "Fullstack Developer and DevOps",
       "url": "https://cu.linkedin.com/company/datyscuba",
       "startDate": "2016-9-01",
       "endDate": "2018-04-01",
-      "summary": "DATYS is a leading provider of tailored software solutions for Cuban governmental agencies.",
+      "summary": "Worked as a Fullstack Developer with Javascript, AngularJs, Groovy, Java and Grails. Contributed to a Document Management System with a powerful modeling tool based on Camunda.",
       "highlights": []
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "",
+      "institution": "Universidad de las Ciencias Informaticas",
       "url": "https://www.uci.cu/",
       "area": "Computer Science Engineer",
       "studyType": "Bachelor",
       "startDate": "2011-09-01",
       "endDate": "2016-07-01",
-      "score": "4.0",
+      "score": "4",
       "courses": []
     }
   ],
@@ -242,13 +242,5 @@
   ],
   "interests": [],
   "references": [],
-  "projects": [
-    {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://mars.codes"
-    }
-  ]
+  "projects": []
 }
