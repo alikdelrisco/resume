@@ -30,8 +30,8 @@
         "REST",
         "Postgres",
         "Vue",
-        "Django",
-        "Kafka"
+        "Angular",
+        "Django"
       ]
     },
     {
@@ -47,7 +47,6 @@
         "React Native",
         "Nodejs",
         "MongoDB",
-        "Kafka",
         "Jest",
         "GraphQl",
         "Docker"
@@ -98,6 +97,7 @@
       "summary": "Founded a non-code tool for building agile software hosted in the biggest cloud providers. Developed and designed the serverless backend microservices. Managed the infrastructure as code using Terraform and multiple services from GCP and AWS.",
       "highlights": [
         "Nodejs",
+        "Nestjs",
         "Serverless Framework",
         "AWS Lambda",
         "Typescript",
@@ -131,19 +131,18 @@
       "highlights": [
         "Nodejs",
         "Nestjs",
+        "Angular",
         "RabbitMQ",
         "Redis",
         "Aws S3",
         "Aws SES",
         "MongoDB",
-        "Mongo Atlas",
         "Traefik",
         "Graphql",
         "Apollo Federation",
         "Microservices",
         "AWS EC2",
         "Nginx",
-        "Angular",
         "Docker",
         "Typescript"
       ]
@@ -192,10 +191,10 @@
       "name": "Nodejs"
     },
     {
-      "name": "Python"
+      "name": "Angular"
     },
     {
-      "name": "Java"
+      "name": "Nestjs"
     },
     {
       "name": "REST"
@@ -232,10 +231,10 @@
       "name": "Vue"
     },
     {
-      "name": "Angular"
+      "name": "Python"
     },
     {
-      "name": "Nestjs"
+      "name": "Java"
     },
     {
       "name": "Django"
