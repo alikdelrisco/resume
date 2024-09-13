@@ -1,38 +1,6 @@
 ---
-import { basics, skills, work, education } from "cvs/default.json"
-import Layout from "@/layouts/Layout.astro"
-
-import About from "@/components/sections/About.astro"
-import Education from "@/components/sections/Education.astro"
-import Experience from "@/components/sections/Experience.astro"
-import Hero from "@/components/sections/Hero.astro"
-import Skills from "@/components/sections/Skills.astro"
-import KeyboardManager from "@/components/KeyboardManager.astro"
+import defaultCv from "cvs/default.json"
+import CvPage from "@/components/CvPage.astro"
 
 ---
-
-<Layout title="Alik del Risco - Professional Resume" basics={basics}>
-  <main>
-    <Hero basics={basics} />
-    <About basics={basics} />
-    <Skills skills={skills} />
-    <Experience work={work} />
-    <Education education={education} />
-  </main>
-
-  <KeyboardManager />
-</Layout>
-
-<style>
-  main {
-    padding: 4rem;
-    margin: auto;
-    width: 100%;
-  }
-
-  @media (width <= 700px) {
-    main {
-      padding: 2rem;
-    }
-  }
-</style>
+<CvPage cv={defaultCv} />
