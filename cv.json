@@ -14,7 +14,13 @@
       "countryCode": "CA",
       "region": "Canada"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alik-del-risco",
+        "url": "https://www.linkedin.com/in/alik-del-risco"
+      }
+    ]
   },
   "work": [
     {
@@ -220,7 +226,6 @@
     {
       "name": "Docker"
     },
-
     {
       "name": "Graphql"
     },
