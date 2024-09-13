@@ -89,7 +89,6 @@
         "React",
         "Java",
         "React Native",
-        "Objective-C",
         "Swift",
         "Jest"
       ]
@@ -135,6 +134,7 @@
       "endDate": "2020-04-01",
       "summary": "Led the development of a specific platform for cash delivery in Cuba with a team of 5 members. Designed and executed a microservices architecture supported by RabbitMQ, Apollo Graphql Federation, Sagas, CQRS, and Event-Driven Architecture.",
       "highlights": [
+        "Typescript",
         "Nodejs",
         "Nestjs",
         "Angular",
@@ -143,14 +143,12 @@
         "Aws S3",
         "Aws SES",
         "MongoDB",
-        "Traefik",
         "Graphql",
         "Apollo Federation",
         "Microservices",
         "AWS EC2",
         "Nginx",
-        "Docker",
-        "Typescript"
+        "Docker"
       ]
     },
     {
@@ -166,6 +164,7 @@
         "Grails",
         "Javascript",
         "AngularJs",
+        "Angular",
         "REST",
         "Oracle",
         "Docker"

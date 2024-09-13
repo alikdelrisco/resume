@@ -1,11 +1,12 @@
 ---
-import { basics } from "cvs/default.json"
+import type { Basics } from "@/cv"
 
 interface Props {
   title: string
+  basics: Basics
 }
 
-const { title } = Astro.props
+const { title, basics } = Astro.props
 
 const { summary, url } = basics
 ---
