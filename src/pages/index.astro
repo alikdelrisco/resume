@@ -1,4 +1,5 @@
 ---
+import { basics, skills, work, education } from "cvs/default.json"
 import Layout from "@/layouts/Layout.astro"
 
 import About from "@/components/sections/About.astro"
@@ -12,11 +13,11 @@ import KeyboardManager from "@/components/KeyboardManager.astro"
 
 <Layout title="Resume Alik del Risco">
   <main>
-    <Hero />
-    <About />
-    <Skills />
-    <Experience />
-    <Education />
+    <Hero basics={basics} />
+    <About basics={basics} />
+    <Skills skills={skills} />
+    <Experience work={work} />
+    <Education education={education} />
   </main>
 
   <KeyboardManager />

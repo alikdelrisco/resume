@@ -1,14 +1,19 @@
 ---
-import { basics } from "@cv"
 import Section from "@/components/Section.astro"
 import Mail from "@/icons/Mail.astro"
 import Phone from "@/icons/Phone.astro"
 import WorldMap from "@/icons/WorldMap.astro"
 import LinkedIn from "@/icons/LinkedIn.astro"
 import type { SocialIcon } from "@/types"
+import type { Basics } from "@/cv"
 
+interface Props {
+  basics: Basics;
+}
+const { basics } = Astro.props;
 const { name, label, location, phone, email, profiles } = basics
 const { city, region } = location
+
 const SOCIAL_ICONS: SocialIcon = {
   LinkedIn,
 }
@@ -56,7 +61,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
           )
         }
         {
-          profiles.map(({ network, url, username }) => {
+          profiles.map(({ network, url }) => {
             const Icon = SOCIAL_ICONS[network]
 
             return (

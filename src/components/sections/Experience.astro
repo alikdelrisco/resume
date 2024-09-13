@@ -1,7 +1,11 @@
 ---
-import Section from "../Section.astro"
+import Section from "@/components/Section.astro"
+import type { Work } from "@/cv";
 
-import { work } from "@cv"
+interface Props {
+  work: Work[];
+}
+const { work } = Astro.props;
 ---
 
 <Section title="Work Experience">
@@ -11,7 +15,7 @@ import { work } from "@cv"
         ({ name, startDate, endDate, position, summary, highlights, url }) => {
           const startYear = new Date(startDate).getFullYear()
           const endYear =
-            endDate != null ? new Date(endDate).getFullYear() : "Actual"
+            endDate ? new Date(endDate).getFullYear() : "Actual"
 
           return (
             <li>

@@ -44,12 +44,12 @@ interface Work {
   position: string
   url: string
   startDate: DateStr
-  endDate: DateStr | null
+  endDate: DateStr
   summary: string
   highlights: Highlight
 }
 
-type DateStr = `${string}-${string}-${string}`
+type DateStr = `${string}-${string}-${string}` | string
 
 interface Volunteer {
   organization: string
@@ -63,8 +63,8 @@ interface Volunteer {
 
 interface Skills {
   name: string
-  level: string
-  keywords: Array<string>
+  level?: string
+  keywords?: Array<string>
 }
 
 interface Awards {

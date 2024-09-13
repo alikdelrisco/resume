@@ -28,7 +28,7 @@
       "position": "Team Leader and Senior Fullstack Developer",
       "url": "https://www.rideco.com/",
       "startDate": "2022-04-01",
-      "endDate": null,
+      "endDate": "",
       "summary": "Assembled and led a team of 5 members in the comprehensive rewrite of an Operations Center web application, a crucial component of the RideCo platform. The application is highly customizable and has plenty of feature flags to cover all the customers' needs. The user interface was built using Vue and consumes REST endpoints provided by Django Rest Framework.",
       "highlights": [
         "Typescript",
