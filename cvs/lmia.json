@@ -1,0 +1,206 @@
+{
+  "version": "lmia",
+  "basics": {
+    "name": "Alik del Risco",
+    "label": "Senior Software Developer with +8 years of experience as a professional.",
+    "image": "/me.webp",
+    "email": "alik.delrisco92@gmail.com",
+    "phone": "+1 5197163159",
+    "url": "https://alikdelrisco.github.io/cv/",
+    "summary": "Experienced Senior Software Engineer with a proven track record, including participation in the Caribbean Final of the ACM-ICPC in 2015 and numerous national competitive programming contests. Passionate about emerging technologies, software architecture, and knowledge sharing. Adept at both independent work and collaborative team environments, emphasizing meticulous planning and adherence to best practices for high-quality code. Committed to delivering innovative solutions while fostering a culture of continuous improvement.",
+    "location": {
+      "address": "",
+      "postalCode": "N2G 0C8",
+      "city": "Kitchener",
+      "countryCode": "CA",
+      "region": "Canada"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alik-del-risco",
+        "url": "https://www.linkedin.com/in/alik-del-risco"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Rideco - Operations Center",
+      "position": "Senior Fullstack Developer",
+      "url": "https://www.rideco.com/",
+      "startDate": "2022-04-01",
+      "endDate": "",
+      "summary": "Head developer in the rewrite of an Operations Center web application, a crucial component of the RideCo platform. The application is highly customizable and has plenty of feature flags to cover all the customers' needs. The user interface was built using Vue and consumes REST endpoints provided by Django Rest Framework.",
+      "highlights": [
+        "Typescript",
+        "Python",
+        "REST",
+        "Postgres",
+        "Vue",
+        "Angular",
+        "Django"
+      ]
+    },
+    {
+      "name": "Musala Soft - MagentaZuhause Smart Home",
+      "position": "Senior Mobile Developer",
+      "url": "https://www.smarthome.de/magentazuhause-app",
+      "startDate": "2021-10-01",
+      "endDate": "2022-04-01",
+      "summary": "Developed the Smarthome solution mobile app for Deutsche Telekom. Collaborating with +100 members divided into multiple teams. Connecting various devices' vendors and microservices data through Graphql endpoints and providing rich user interfaces using React Native.",
+      "highlights": [
+        "Typescript",
+        "React",
+        "React Native",
+        "Nodejs",
+        "MongoDB",
+        "Jest",
+        "GraphQl",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Musala Soft - Elopage Media Categorizer",
+      "position": "Senior Backend and Cloud Developer",
+      "url": "https://elopage.com/en/",
+      "startDate": "2021-10-01",
+      "endDate": "2021-04-01",
+      "summary": "Elopage Media Categorizer is a microservice that detects inappropriate, unwanted, or offensive content. Worked as the main backend developer, implementing REST endpoints, consuming AWS services, and communicating with the existing microservices.",
+      "highlights": [
+        "Typescript",
+        "Nodejs",
+        "Nestjs",
+        "Aws RDS",
+        "S3",
+        "Rekognition",
+        "SQS",
+        "Docker",
+        "REST"
+      ]
+    },
+    {
+      "name": "Musala Soft - Leanplum React Native SDK",
+      "position": "Mobile Developer",
+      "url": "https://docs.leanplum.com/reference/react-native-setup",
+      "startDate": "2019-10-01",
+      "endDate": "2020-04-01",
+      "summary": "Worked as a Mobile developer wrapping and modifying the existing Android and iOS SDKs into a React Native npm package.",
+      "highlights": [
+        "Typescript",
+        "React",
+        "Java",
+        "React Native",
+        "Swift",
+        "Jest"
+      ]
+    },
+    {
+      "name": "DATYS - Papyrus",
+      "position": "Fullstack Developer and DevOps",
+      "url": "https://cu.linkedin.com/company/datyscuba",
+      "startDate": "2016-9-01",
+      "endDate": "2018-04-01",
+      "summary": "Worked as a Fullstack Developer with Groovy, Java, Grails and Javascript, AngularJs. Contributed to a Document Management System with a powerful process modeling tool based on Camunda.",
+      "highlights": [
+        "Groovy",
+        "Java",
+        "Grails",
+        "Javascript",
+        "AngularJs",
+        "Angular",
+        "REST",
+        "Oracle",
+        "Docker"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Informatics Sciences, Havana, Cuba",
+      "url": "https://www.uci.cu/",
+      "area": "Computer Science Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-01",
+      "endDate": "2016-07-01",
+      "score": "4",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "skills": [
+    {
+      "name": "Javascript"
+    },
+    {
+      "name": "Typescript"
+    },
+    {
+      "name": "Nodejs"
+    },
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "Nestjs"
+    },
+    {
+      "name": "REST"
+    },
+    {
+      "name": "Microservices"
+    },
+    {
+      "name": "Automated Testing"
+    },
+    {
+      "name": "Clean Code"
+    },
+    {
+      "name": "CI/CD"
+    },
+    {
+      "name": "Cloud Providers"
+    },
+    {
+      "name": "SCRUM"
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Graphql"
+    },
+    {
+      "name": "React"
+    },
+    {
+      "name": "Vue"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Django"
+    },
+    {
+      "name": "Cypress"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
